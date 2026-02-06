@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=E94D1A&center=true&vCenter=true&width=600&lines=Hi%2C%20I'm%20Lalit%20Chaudhari!;AI%2FML%20Engineer%20%7C%20Enthusiastic%20Developer" alt="Typing animation introducing Lalit as an AI/ML Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=E94D1A&center=true&vCenter=true&width=600&lines=Hi%2C%20I'm%20Lalit%20Chaudhari!;AI%2FML%20Engineer%20Enthusiast" alt="Typing animation introducing Lalit as an AI/ML Engineer Enthusiast" />
 </p>
 
 ---
